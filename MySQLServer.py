@@ -1,3 +1,9 @@
+# Title:  Let's Build Your Database: Your Gateway to Data Adventure!
+# Author: Archie Prince
+# Filename: MySQLServer.py
+# Date: 10.02.2025
+# Objective: A simple python script that creates the database alx_book_store in your MySQL server.
+
 import mysql.connector
 from mysql.connector import Error
 
